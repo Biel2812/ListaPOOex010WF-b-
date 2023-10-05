@@ -1,0 +1,11 @@
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\bin\Debug\PJ10.exe.config
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\bin\Debug\PJ10.exe
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\bin\Debug\PJ10.pdb
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.frmTerreno.resources
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.Properties.Resources.resources
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.exe
+C:\Users\aluno\Downloads\ListaPOOex10WF-main\ListaPOOex10WF-main\PJ10\PJ10\obj\Debug\PJ10.pdb
